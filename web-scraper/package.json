@@ -1,0 +1,19 @@
+{
+  "name": "imagegrabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "David6",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colorthief": "^2.3.0",
+    "download": "^7.1.0",
+    "file-system": "^2.2.2",
+    "mysql": "^2.18.1",
+    "probe-image-size": "^5.0.0"
+  }
+}
