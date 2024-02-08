@@ -1,8 +1,9 @@
+![A header image showing screenshots](docs/headerImage.jpg)
+
 # Wallpaper Grid | Mobile App, API, Web-scraper
 A Full-Stack wallpaper provider app with web-scraping
-*App Creation Date: June 2020*
 
-![A header image showing screenshots](docs/headerImage.jpg)
+*App Creation Date: June 2020*
 
 In 2020 I was looking for a new monetizable app idea and came across the concept of wallpaper distribution apps. These apps poised the interesting challenge of collecting public domain images, creating metadata around them, and providing them to the user. 
 I achieved this with a combination of a NodeJS web-scraper, a LEMN stack server, and my React Native front-end. 
